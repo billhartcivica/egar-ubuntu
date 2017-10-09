@@ -1,2 +1,2 @@
 #!/bin/sh
-runuser -l ubuntu /home/ubuntu/runvnc.sh
+runuser -l egar /home/ubuntu/runvnc.sh
